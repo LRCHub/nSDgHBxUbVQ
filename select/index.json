@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Photograph",
+  "base_artist": "Ed Sheeran",
+  "createdAt": "2026-03-01T00:46:58.867170Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "This Is Not A Photograph",
+      "artist": "Mission of Burma",
+      "has_synced": false,
+      "path": "select/01_This_Is_Not_A_Photograph_Mission_of_Burma.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wishing (If I Had a Photograph of You)",
+      "artist": "Nouvelle Vague",
+      "has_synced": true,
+      "path": "select/02_Wishing_(If_I_Had_a_Photograph_of_You)_Nouvelle_Vague.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'm so Low (aka Jet-Propelled Photograph)",
+      "artist": "The Soft Machine",
+      "has_synced": false,
+      "path": "select/03_I'm_so_Low_(aka_Jet-Propelled_Photograph)_The_Soft_Machine.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Photograph",
+      "artist": "Chicane feat. Christian Burns",
+      "has_synced": true,
+      "path": "select/04_Photograph_Chicane_feat._Christian_Burns.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Photograph (feat. Christian Burns)",
+      "artist": "Chicane",
+      "has_synced": false,
+      "path": "select/05_Photograph_(feat._Christian_Burns)_Chicane.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Photograph Smile",
+      "artist": "Julian Lennon",
+      "has_synced": true,
+      "path": "select/06_Photograph_Smile_Julian_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Photograph",
+      "artist": "Chicane",
+      "has_synced": true,
+      "path": "select/07_Photograph_Chicane.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wishing (I Had a Photograph of You)",
+      "artist": "A Flock of Seagulls",
+      "has_synced": false,
+      "path": "select/08_Wishing_(I_Had_a_Photograph_of_You)_A_Flock_of_Seagulls.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Photograph",
+      "artist": "Action Action",
+      "has_synced": false,
+      "path": "select/09_Photograph_Action_Action.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Photograph",
+      "artist": "Air",
+      "has_synced": true,
+      "path": "select/10_Photograph_Air.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wishing (If I Had a Photograph of You)",
+      "artist": "A Flock of Seagulls",
+      "has_synced": true,
+      "path": "select/11_Wishing_(If_I_Had_a_Photograph_of_You)_A_Flock_of_Seagulls.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wishing (If I Had A Photograph Of You) - Extended Version",
+      "artist": "A Flock of Seagulls",
+      "has_synced": true,
+      "path": "select/12_Wishing_(If_I_Had_A_Photograph_Of_You)_-_Extended_Version_A_Flock_of_Seagulls.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Photograph",
+      "artist": "Dirty Vegas",
+      "has_synced": false,
+      "path": "select/13_Photograph_Dirty_Vegas.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Photograph",
+      "artist": "The Midnight",
+      "has_synced": true,
+      "path": "select/14_Photograph_The_Midnight.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Photograph of You",
+      "artist": "Marsheaux",
+      "has_synced": true,
+      "path": "select/15_A_Photograph_of_You_Marsheaux.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Photograph Of You",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/16_A_Photograph_Of_You_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Photograph",
+      "artist": "Ringo Starr",
+      "has_synced": true,
+      "path": "select/17_Photograph_Ringo_Starr.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Photograph",
+      "artist": "Def Leppard",
+      "has_synced": true,
+      "path": "select/18_Photograph_Def_Leppard.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Photograph",
+      "artist": "Ed Sheeran",
+      "has_synced": false,
+      "path": "select/pl_01_Photograph_Ed_Sheeran.txt"
+    }
+  ]
+}
